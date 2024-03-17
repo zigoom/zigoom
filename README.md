@@ -1,17 +1,20 @@
-### Hi there 👋
 
+사용 목적 : 여러 환경의 프로젝트를 공부하고 연습하기 위해
 
-**zigoom/zigoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Language and Tools :
+* C#(ASP.Net, Unity) - VisualStudio, VisualStudioCode  
+* Java(Spring, Android) - Eclipse, STS, intellij, AndroidStudio  
+* Python - VisualStudioCode, PyCharm, jupyter notebook  
 
-Here are some ideas to get you started:
+### Database :
+*  OracleDB - sqldeveloper  
+* MSSql - SQL Server  
+* Mysql, Marialdb - HeidiSQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Collaboration Tool :
+* Notion, Slack, Google Sheets  
+* Git, Github, Sourcetree   
+* Figma
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zigoom&show_icons=true&theme=radical)
 
