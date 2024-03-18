@@ -25,6 +25,7 @@
 <!--* Notion, Slack, Google Sheets  * Git, Github, Sourcetree   * Figma -->
 
 * <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" width="80" height="20"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" width="70" height="20"> <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" width="100" height="20"> <img src="https://img.shields.io/badge/Figma-%23FA0F00.svg?style=for-the-badge&logo=figma&logoColor=black" width="70" height="20">  
-* <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" width="50" height="20"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="70" height="20"> <img src="https://img.shields.io/badge/Sourcetree-4285F4.svg?style=for-the-badge&logo=git&logoColor=white" width="100" height="20">      
-  
-<a href="https://github.com/zigoom"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zigoom&layout=compact&theme=nord&hide_border=true" /></a> 
+* <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" width="50" height="20"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="70" height="20"> <img src="https://img.shields.io/badge/Sourcetree-4285F4.svg?style=for-the-badge&logo=git&logoColor=white" width="100" height="20">
+<br/><br/><br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zigoom&show_icons=true&theme=dark&hide_rank=true&&hide=issues) &nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zigoom&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
