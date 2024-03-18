@@ -1,6 +1,4 @@
 
-사용 목적 : 여러 환경의 프로젝트를 공부하고 연습하기 위해
-
 ### Language and Tools :
 * C#(ASP.Net, Unity) - VisualStudio, VisualStudioCode  
 * Java(Spring, Android) - Eclipse, STS, intellij, AndroidStudio  
